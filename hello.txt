@@ -6,7 +6,7 @@ hello lyc! hello git!
 hello lyc! hello git!
 hello lyc! hello git!
 hello lyc! hello git!
-hello lyc! hello git!
+hello lyc! hello git
 hello lyc! hello git! master update!
-hello lyc! hello git!
+hello lyc! hello git! hot-fix update!
 
